@@ -4,6 +4,8 @@
 
 
 # Claude-powered Oxygen Resource Navigator (CoviO2)
+<img width="955" height="446" alt="image" src="https://github.com/user-attachments/assets/7eab281f-75a6-4373-b089-4f36c5aeac28" />
+
 <img width="690" height="338" alt="image" src="https://github.com/user-attachments/assets/e5214d11-fda1-420f-acb7-4811808e7349" />
 
 
