@@ -1,0 +1,4 @@
+anthropic
+streamlit
+openpyxl
+python-dotenv
