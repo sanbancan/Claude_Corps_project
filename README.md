@@ -6,7 +6,8 @@
 # Claude-powered Oxygen Resource Navigator (CoviO2)
 <img width="955" height="446" alt="image" src="https://github.com/user-attachments/assets/7eab281f-75a6-4373-b089-4f36c5aeac28" />
 
-<img width="690" height="338" alt="image" src="https://github.com/user-attachments/assets/e5214d11-fda1-420f-acb7-4811808e7349" />
+<img width="956" height="444" alt="image" src="https://github.com/user-attachments/assets/31760583-de3e-474f-99c8-529e5166edb6" />
+
 
 
 This repo contains a Claude-powered multilingual Oxygen Resource Navigator that converts static city-wise resource sheets into a helpdesk and matching engine for urgent oxygen requests.
