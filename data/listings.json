@@ -1,0 +1,4483 @@
+{
+  "indore": [
+    {
+      "id": "IND-001",
+      "city": "indore",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen refill 5L,10L,50L",
+      "location": "Khanwa road",
+      "price": "5L-free,10L-Rs200, 50L-Rs600",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "8109490001",
+      "verified_date": "01-01-2021",
+      "documents": "Doctors prescription for high capacity",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-002",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Sanpa sngeeta road",
+      "price": "Rs-41000 5L, 10L-Rs1,00,000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9926398845",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-003",
+      "city": "indore",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling",
+      "location": "vj road",
+      "price": "Rs 200-Rs800",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9977939501",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-004",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Dawa Bazar, RNT Marg, Indore",
+      "price": "5L-48,000 plus GST",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9575122819",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-005",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Near Collector Office",
+      "price": "free",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "7648842300",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-006",
+      "city": "indore",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen 30 units",
+      "location": "1, Airport road , opposite B.S.F. , Kanyakubj nagar , near Vidhya Dham , Indore",
+      "price": "Didn't disclose",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7898015110",
+      "verified_date": "06-10-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-007",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "9 and 5 Litres Oxygen Concentrator",
+      "location": "Vj road",
+      "price": "5L-Rs26,000, 9L-Rs30,000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "8839651520",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card, Doctors [rescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-008",
+      "city": "indore",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill 15 litres",
+      "location": "Lavkush square near vinayak toll",
+      "price": "RS 550",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7898587709",
+      "verified_date": "06-10-2021",
+      "documents": "Doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-009",
+      "city": "indore",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Tanks 50 litres",
+      "location": "khanwa road",
+      "price": "Rs 28000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9399089011",
+      "verified_date": "06-09-2021",
+      "documents": "Aadhar card doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-010",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator 7L,9L,10L",
+      "location": "Rau",
+      "price": "7L- Rs 55,000/9L- Rs 70,000;10L- Rs1,10,000",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9111112745",
+      "verified_date": "06-10-2021",
+      "documents": "Aadhar card doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-011",
+      "city": "indore",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling all sizes",
+      "location": "Khanwa road",
+      "price": "Rs-150 for 10L above 10L-Rs 6 per litre",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9425056939",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-012",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator 5L",
+      "location": "Shree Mangalam Medical Store 34 Jaora Compound",
+      "price": "Rs 40,000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9713071831",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-013",
+      "city": "indore",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling",
+      "location": "Sare Road",
+      "price": null,
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8815108954",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-014",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Khatipura",
+      "price": "5L-5000 (refundable) (given on rent)",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9425062801",
+      "verified_date": "06-05-2021",
+      "documents": "Aadhar card telephone number age and saturation level, precription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-015",
+      "city": "indore",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Kajal Overseas Indore",
+      "price": "RS-6800",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "8048940839",
+      "verified_date": "01-01-2021",
+      "documents": "ID prood",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-016",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Shree Swastik Surgical Indore",
+      "price": "RS-38,000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7971479729",
+      "verified_date": "01-01-2021",
+      "documents": "ID proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-017",
+      "city": "indore",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Shree Swastik Surgical Indore",
+      "price": "Rs-167 per litre",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7971479729",
+      "verified_date": "01-01-2021",
+      "documents": "ID proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "IND-018",
+      "city": "indore",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Portable Oxygen concentrator 9L",
+      "location": "Khajuri Bazar Indore",
+      "price": "Rs-60,000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7971476653",
+      "verified_date": "01-01-2021",
+      "documents": "ID proof",
+      "active": true,
+      "inactive_reason": null
+    }
+  ],
+  "mumbai": [
+    {
+      "id": "MUM-001",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": null,
+      "location": "mumbai",
+      "price": "free of cost for covid patients",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": null,
+      "verified_date": "25-06-2021",
+      "documents": "doctors prescription and adhaar card",
+      "active": false,
+      "inactive_reason": "missing phone number"
+    },
+    {
+      "id": "MUM-002",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cans (30-35 pcs as of 17/06/21)",
+      "location": "Kandivali, Mumbai",
+      "price": "20L - Rs. 1499 per can + transport",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7021362766",
+      "verified_date": "17-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-003",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "All over Mumbai",
+      "price": "Purchase price starting from Rs. 20000 depending on model and capacity",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9924674062",
+      "verified_date": "17-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-004",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai",
+      "price": "7k security deposit",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "8828941313",
+      "verified_date": "16-06-2021",
+      "documents": "Covid report and doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-005",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "7208021883",
+      "verified_date": "14-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-006",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "home_delivery",
+      "phone": "9820003247",
+      "verified_date": "14-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-007",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Concentrators",
+      "location": "Mumbai",
+      "price": "70k-75k",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7738597682",
+      "verified_date": "14-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-008",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "auto call guides patients",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8451869785",
+      "verified_date": "14-06-2021",
+      "documents": "not mentioned",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-009",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinders and concentrators",
+      "location": "all over Mumbai",
+      "price": "5000-10000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9372247100",
+      "verified_date": "12-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-010",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "10000.0",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9004512226",
+      "verified_date": "12-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-011",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Mumbai , Pune",
+      "price": "Rs. 97000 (all taxes included)",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7977303270",
+      "verified_date": "12-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-012",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Ghatkopar, Mumbai",
+      "price": "depends on availability",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9755382910",
+      "verified_date": "12-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-013",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Mumbai",
+      "price": "Free of cost for covid patients",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9833122175",
+      "verified_date": "11-06-2021",
+      "documents": "Doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-014",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8087623526",
+      "verified_date": "11-06-2021",
+      "documents": "Aadhar card and doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-015",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinders / Oxygen Concentrators",
+      "location": "Mumbai",
+      "price": "5000 (prices differ due to size)",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9022120120",
+      "verified_date": "11-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-016",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Mumbai",
+      "price": "6000 rent",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9819964850",
+      "verified_date": "08-06-2021",
+      "documents": "Aadhar card, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-017",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Malad",
+      "price": "5L - Rs. 4000 per month for rent + transport\n5L - Rs. 95000 purchase cost + transport",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7718095677",
+      "verified_date": "08-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-018",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Vasai",
+      "price": "Rs. 6000 per month for rent\nRs. 55000 to Rs. 60000 purchase cost",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7947192319",
+      "verified_date": "08-06-2021",
+      "documents": "Aadhar card photocopy",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-019",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Ghatkopar",
+      "price": "Rs. 4000 per month rent",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9619381829",
+      "verified_date": "08-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-020",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Chembur, Nerul",
+      "price": "Rs. 4000 per month for rent + transport charges",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9082557300",
+      "verified_date": "08-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-021",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Mira road",
+      "price": "Rent - Rs. 6000 per month + Rs. 10000 deposit\nPurchase (second hand machine) - Rs. 40000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7977751255",
+      "verified_date": "08-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-022",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "all sized cylinders available free of cost for covid paitents",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9820184660",
+      "verified_date": "07-06-2021",
+      "documents": "aadhar card, doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-023",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Concentrators and Cans",
+      "location": "Mumbai",
+      "price": "Price varies based on requirement",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9205445637",
+      "verified_date": "07-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-024",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Opp. maharashtra college, central mumbai",
+      "price": "13 L free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9324885788",
+      "verified_date": "07-06-2021",
+      "documents": "adhar xerox, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-025",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Juhu",
+      "price": "20k plus gst",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "8879380143",
+      "verified_date": "07-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-026",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai",
+      "price": "10L:10000₹",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9920204655",
+      "verified_date": "07-06-2021",
+      "documents": "aadhar card,doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-027",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Oxygen Cylinders",
+      "price": "Mumbai",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8446105039",
+      "verified_date": "06-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-028",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "Andheri",
+      "price": "20L: 1300",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8850968921",
+      "verified_date": "06-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-029",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "5000 refundable deposit",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9619928189",
+      "verified_date": "06-06-2021",
+      "documents": "Adhaar card and Doctors Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-030",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "5000-16000",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7777009982",
+      "verified_date": "05-06-2021",
+      "documents": "Pan Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-031",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Ghatkopar, Mumbai",
+      "price": "10L- 60,000 ( Price changes, confirm again)",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9821010210",
+      "verified_date": "05-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-032",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "10L- 400(rent) 5000(deposit)",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "96199928189",
+      "verified_date": "04-06-2021",
+      "documents": "Aadhar card and doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-033",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9892012132",
+      "verified_date": "04-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-034",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9322415656",
+      "verified_date": "04-06-2021",
+      "documents": "Whatsapp patients ID, address, name",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-035",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9821353984",
+      "verified_date": "04-06-2021",
+      "documents": "Aadhar card, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-036",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8850920046",
+      "verified_date": "04-06-2021",
+      "documents": "Aadhar card, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-037",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai, Hyderabad",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "7306600600",
+      "verified_date": "04-06-2021",
+      "documents": "Aadhar card and doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-038",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Ghatkopar",
+      "price": "5000 onwards",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "8422059276",
+      "verified_date": "04-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-039",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Mumbai",
+      "price": "58000.0",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9833392329",
+      "verified_date": "04-06-2021",
+      "documents": "Doctors Prescription , Adhaar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-040",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai",
+      "price": "Free , 10000 deposit",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8087623526",
+      "verified_date": "04-06-2021",
+      "documents": "Doctors prescription , adhaar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-041",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai",
+      "price": "14500.0",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9320477667",
+      "verified_date": "03-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-042",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cans",
+      "location": "Mumbai",
+      "price": "1000.0",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "8850968291",
+      "verified_date": "03-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-043",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "bhayandar",
+      "price": "free, 10000 security deposit",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "9870644158",
+      "verified_date": "03-06-2021",
+      "documents": "Adhaar card and Doctors Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-044",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinders / Oxygen Concentrators",
+      "location": "Bandra",
+      "price": "Free",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9833884411",
+      "verified_date": "03-06-2021",
+      "documents": "Adhaar card and Doctors Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-045",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mumbai (22 centres)",
+      "price": "free, 5L 5000 (deposit) , 10L 10000 (deposit)",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9820257997",
+      "verified_date": "03-06-2021",
+      "documents": "Adhaar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-046",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "South Mumbai",
+      "price": "1750.0",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9820814271",
+      "verified_date": "03-06-2021",
+      "documents": "adhaar card and Doctors Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-047",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinder / Oxygen concentrator",
+      "location": "Mumbai",
+      "price": "Oxygen Cylinder 12000-15500 , Oxygen Concentrator 7L 55000 (all exclusive of GST and Shipping)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8109034049",
+      "verified_date": "03-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-048",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Vasai",
+      "price": "5000 Deposit , 500 refill",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9004339996",
+      "verified_date": "03-06-2021",
+      "documents": "Doctors Prescription , Adhaar card , RTPCR report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-049",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Mulund, Thane",
+      "price": "Rs. 8000 per month + delivery charges",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7947162310",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card and address",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-050",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Panvel",
+      "price": "Deposit Rs. 15000 per cylinder + Rs. 600 + GST + delivery charges",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7947192778",
+      "verified_date": "03-06-2021",
+      "documents": "Doctor's prescription and aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-051",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Kandivli, Borivali",
+      "price": "Rs. 6000 per month rental charges",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "79471810307045544421",
+      "verified_date": "03-06-2021",
+      "documents": "Doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-052",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Kalyan",
+      "price": "Rs. 5000 deposit + Rs. 6000 per month + delivery charges if outside Kalyan",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7947186608",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-053",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Mumbai",
+      "price": "Rs. 67000 purchase cost\nRs. 5000 deposit + Rs. 1000 accessories + Rs. 5000 per month rental costs",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7947168351",
+      "verified_date": "03-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-054",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Mumbai",
+      "price": "Rs. 6000 per month rental charges + Rs. 500 delivery charges",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7021168161",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-055",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "Dombivli, Mira Road, Andheri (various location around Mumbai)",
+      "price": "Starting from Rs. 55000 purchase costs\nRs. 8000 to Rs. 10000 per month for rental depending on variety",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9820002890",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-056",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (Jumbo and small both available)",
+      "location": "Bhiwandi",
+      "price": "Rs. 15000 to Rs. 25000 purchase costs (depending on new and old)\nRs. 15000 deposit for rental (get Rs. 12000 back after returning)",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "8007443588",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-057",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinder and refill",
+      "location": "Jogeshwari and Bhayandar",
+      "price": "10L refill - Rs. 300, Jumbo (47L) refill - Rs. 600\nRs. 11800 for cylinder + kit",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9892123103",
+      "verified_date": "03-06-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-058",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "PAN india",
+      "price": "Free of cost (rent only)",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8999400985",
+      "verified_date": "02-06-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-059",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost (10L)",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9768053832",
+      "verified_date": "02-06-2021",
+      "documents": "aadhar card and doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-060",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9820008686",
+      "verified_date": "02-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-061",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai, Ghatkopar",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9321580108",
+      "verified_date": "02-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-062",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Mumbai",
+      "price": "rental- 6000rs/month",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9820023039",
+      "verified_date": "02-06-2021",
+      "documents": "adress proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-063",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cans",
+      "location": "Mumbai",
+      "price": "12l-1000₹",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9730225342",
+      "verified_date": "02-06-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-064",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cycinders (12-14 available)",
+      "location": "govind nagar",
+      "price": "free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9793024455",
+      "verified_date": "31-05-2021",
+      "documents": "adhar card, covid report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-065",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Concentrators",
+      "location": "Mumbai",
+      "price": "Varies based on requirement Rs. 35k- Rs. 1,50,000",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9833777809",
+      "verified_date": "30-05-2021",
+      "documents": "Adhaar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-066",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "borivali and andheri",
+      "price": "55000+gst",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9819676210",
+      "verified_date": "30-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-067",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen concentator",
+      "location": "kalbadevi",
+      "price": "60700+gst",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9792005589",
+      "verified_date": "30-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-068",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9819503889",
+      "verified_date": "29-05-2021",
+      "documents": "Doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-069",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Cylinders- 120",
+      "location": "Panvel, Navi Mumbai",
+      "price": "5kg-5200 10kg-9400",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9594837086",
+      "verified_date": "29-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-070",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder ( enough quantity)",
+      "location": "thane",
+      "price": "15000+gst+ tax",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9819646879",
+      "verified_date": "29-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-071",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Malad, West",
+      "price": "Starting from Rs. 37500 +GST, varies depending on brand and capacity",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "80486217029082295988",
+      "verified_date": "27-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-072",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (3L)",
+      "location": "186 Rajaram mohan roy road, \nPrathana Samaj, 400004",
+      "price": "free for patients",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9821380259",
+      "verified_date": "26-05-2021",
+      "documents": "will talk to patient about documents",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-073",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (150 available)",
+      "location": "Malad West",
+      "price": "Free for Covid patients",
+      "is_free": true,
+      "delivery": "home_delivery",
+      "phone": "989201232",
+      "verified_date": "26-05-2021",
+      "documents": "Covid report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-074",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "5L-5000, 10L-10000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9820257998",
+      "verified_date": "25-05-2021",
+      "documents": "Aadhar card, Doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-075",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (enough quantity)",
+      "location": "All across India",
+      "price": "Free",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "7506399954",
+      "verified_date": "25-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-076",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators (17 available)",
+      "location": "Mumbai",
+      "price": "Rental: Rs. 10000 per month\nPurchase: Rs. 85000 including GST",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7045309639",
+      "verified_date": "25-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-077",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator (enough quantity)",
+      "location": "Andheri East",
+      "price": "5L - Rs. 70000 +GST\n10L - Rs. 100000 to Rs. 225000",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9833995543",
+      "verified_date": "25-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-078",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator (11-12 available)",
+      "location": "Mumbai",
+      "price": "Rs. 71000 to Rs. 77000 depending on capacity and variant",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9920592592",
+      "verified_date": "25-05-2021",
+      "documents": "Aadhar card and address",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-079",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Mumbai",
+      "price": "free",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9833129121",
+      "verified_date": "24-05-2021",
+      "documents": "aadhar card and doctors prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-080",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Mumbai",
+      "price": "Rent- 5litres- free of cost for 15 days",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9820090081",
+      "verified_date": "23-05-2021",
+      "documents": "Doctor Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-081",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Thane, Mumbai",
+      "price": "Purchase- 7 litres for 67,000 and 8 for 72,000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7021616764",
+      "verified_date": "22-05-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-082",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (enough quantity)",
+      "location": "All over Mumbai",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "7498151214",
+      "verified_date": "21-05-2021",
+      "documents": "Aadhar card copy, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-083",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders(about 100)",
+      "location": "Mumbai",
+      "price": "free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "76780613849702552662",
+      "verified_date": "21-05-2021",
+      "documents": "aadhar card and doctor's prescription required",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-084",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinders (enough quantity) refills also available",
+      "location": "Kurla",
+      "price": "Free",
+      "is_free": true,
+      "delivery": "home_delivery",
+      "phone": "9892289596",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card, doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-085",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (enough quantity)",
+      "location": "Panvel, Navi Mumbai",
+      "price": "Free",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9321801272",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card, Doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-086",
+      "city": "mumbai",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen bottle (10L)",
+      "location": "Goregaon, Mumbai",
+      "price": "Rs. 15000 for security deposit (refundable)",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9137194898",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card of the patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-087",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (7L)",
+      "location": "Crawford market",
+      "price": "Rs. 5000+gst",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9820202363",
+      "verified_date": "20-05-2021",
+      "documents": "Doctor's prescription, aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-088",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Andheri (W), Andheri (E), Bandra (W), Vile Parle (E)",
+      "price": "Rs. 50000 refundable deposit",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9930849264",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card, doctor's prescription, COVID report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-089",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators / Oxygen cans",
+      "location": "Khargar",
+      "price": "45000 - 65000(concentrator)     500(cans)",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7738789929",
+      "verified_date": "20-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-090",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "50 centres in Mumbai, give nearest location to patient",
+      "price": "Free, deposit of Rs. 6000 - Rs. 7500 depending on cylinder size",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "9082597161",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card, doctor's letter, COVID report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-091",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator",
+      "location": "All over Mumbai",
+      "price": "Differs from city to city\nCustomer has to pay 25% advance",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7014460682",
+      "verified_date": "20-05-2021",
+      "documents": "Aadhar card required",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-092",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (3-4 available)",
+      "location": "Walkeshwar, Mumbai",
+      "price": "Free (Rs. 10000 refundable deposit)",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "7977239969",
+      "verified_date": "18-05-2021",
+      "documents": "Aadhar card and doctor's prescription required",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-093",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators (1-2 available)",
+      "location": "Thane High Street Mall",
+      "price": "Rs. 75000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7410500808",
+      "verified_date": "18-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-094",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators (4 available)",
+      "location": "Nerul, Navi Mumbai",
+      "price": "Rs. 57000",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9699998080",
+      "verified_date": "18-05-2021",
+      "documents": "Doctor's prescription/note written by doctor",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-095",
+      "city": "mumbai",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrators",
+      "location": "Mumbai",
+      "price": "Below poverty line - Free\nAbove poverty line - Refundable deposit Rs. 18000",
+      "is_free": true,
+      "delivery": "home_delivery",
+      "phone": "8369091278",
+      "verified_date": "18-05-2021",
+      "documents": "Doctor's prescription, Aadhar card and ration card if below poverty line",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "MUM-096",
+      "city": "mumbai",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "SV Road, mumbai",
+      "price": "Rs. 8000+taxes",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "9320032333",
+      "verified_date": "17-05-2021",
+      "documents": "will give info to patient",
+      "active": true,
+      "inactive_reason": null
+    }
+  ],
+  "delhi": [
+    {
+      "id": "DEL-001",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "247, Ground Floor, Near ICICI Bank, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",
+      "price": "Rs.63000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7088811188",
+      "verified_date": "07-03-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-002",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinders (10.2 Litre) , Oxygen Concentrator (5 lpm)",
+      "location": "2nd Floor, 1/2, Malviya Nagar, New Delhi, Delhi 110017",
+      "price": "Oxygen Cylinder - Rs.16000 (B type) , Oxygen Concentrator - Rs.48000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7975708181",
+      "verified_date": "07-03-2021",
+      "documents": "Aadhar card and Covid report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-003",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen refill",
+      "location": "delhi ncr",
+      "price": "free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8828941313",
+      "verified_date": "07-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-004",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen concentrator 5-7 LPM",
+      "location": "delhi ncr",
+      "price": "rs35000 - rs40000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7876345464",
+      "verified_date": "07-01-2021",
+      "documents": "id proof, residence proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-005",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Empty Oxygen Cylinders 5 - 40l",
+      "location": "terapanth covid center, delhi ncr",
+      "price": "price varies on cylinder capacity",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "7042979774",
+      "verified_date": "07-01-2021",
+      "documents": "aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-006",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen refill",
+      "location": "sector 3, rohini, delhi ncr",
+      "price": "free of cost, donation recommended",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "8851066653",
+      "verified_date": "07-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-007",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cans - 10l",
+      "location": "delhi ncr",
+      "price": "rs500, discount for bulk order",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9310193484",
+      "verified_date": "07-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-008",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "paharganj, delhi",
+      "price": "rs7000 - 35000, renting not available",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7048907995",
+      "verified_date": "07-01-2021",
+      "documents": "none",
+      "active": false,
+      "inactive_reason": "stock not available"
+    },
+    {
+      "id": "DEL-009",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen refill",
+      "location": "uttam nagar, delhi",
+      "price": "free of cost",
+      "is_free": true,
+      "delivery": "pickup",
+      "phone": "9136219936",
+      "verified_date": "07-01-2021",
+      "documents": "aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-010",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen cans",
+      "location": "jan sewa medicals, delhi ncr",
+      "price": "price varies on can capacity",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9999497070",
+      "verified_date": "07-01-2021",
+      "documents": "aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-011",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "10l and 47l Oxygen Cylinders",
+      "location": "andheria, delhi",
+      "price": "FREE (Rs.7000 refundable deposit)",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "8828941313",
+      "verified_date": "01-01-2021",
+      "documents": "covid report, live oxygen level",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-012",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Metrostation pillar 560, paramount gases, Delhi",
+      "price": "Rs.20 per litre",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9555913146",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-013",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "7LPM Oxygen Concentrator",
+      "location": "sector 23, Rohini",
+      "price": "Rs.39750",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8847021653",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-014",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Ready Tech 5LPM Oxygen Concentrator",
+      "location": "bharat healthcare, jhilmil, shadra",
+      "price": "Rs.40000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7011977726",
+      "verified_date": "01-01-2021",
+      "documents": "aadhar card if purchasing",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-015",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinder and Oxygen Concentrator",
+      "location": "Delhi",
+      "price": "Call the supplier to get infomation",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9131363689",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-016",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Art of Living, POK, Pitampura",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9268779427",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-017",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Delhi",
+      "price": "Free - against security Rs.18000 (refundable on return)",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9899913330",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-018",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Badarpur near mercedes showroom (Delhi NCR)",
+      "price": "Starting from Rs.500",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8527403747",
+      "verified_date": "01-01-2021",
+      "documents": "Doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-019",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Delhi",
+      "price": "9L-10L Rs.300, 50L-Rs.700",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9990982805",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-020",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator (2 to 9 5 Litres and 10 Litres)",
+      "location": "Delhi",
+      "price": "Call the supplier to get th infomation",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7303074795",
+      "verified_date": "01-01-2021",
+      "documents": "aadhar card for delivery and e-pass",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-021",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator and Oxygen Cylinder",
+      "location": "MedFactory Healthcare Pvt Ltd, D-83B, Gate No. 6 Rd, Nangal Dewat, Vasant Kunj, New Delhi, Delhi 110070",
+      "price": "Concentrator: 5L-Rs.5000(rent) 10L-Rs.15000(rent) 5L-Rs.55000(sale) 10L-Rs.100000(sale) Cylinder: 10L-Rs.1500/month(rent) 47L-Rs.3000/month(rent) 10L-Rs.9000(sale) 47L-Rs.25000(sale)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8505999222",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-022",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "74 5l U-Well Oxygen Concentrators",
+      "location": "inderlok, delhi",
+      "price": "56000.0",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9871520988",
+      "verified_date": "01-01-2021",
+      "documents": "aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-023",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "7l Oxygen Concentrator",
+      "location": "Sector 4, Gurugram",
+      "price": "75000.0",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9953076971",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-024",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "5l & 10l Oxygen Concentrators",
+      "location": "janakpuri, delhi",
+      "price": "40000 for 5l, 85000 for 10l",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9953138125",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-025",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "10l & 50l Oxygen Cylinders",
+      "location": "delhi NCR",
+      "price": "rent - 5000 for 10l, 7000 for 50l",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810526521",
+      "verified_date": "01-01-2021",
+      "documents": "aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-026",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "10l Oxygen Concentrators",
+      "location": "city chemist, palladium arcade, gurugram",
+      "price": "9000 for purchare, 3000/month rent",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8800386651",
+      "verified_date": "01-01-2021",
+      "documents": "aadhar card if purchasing",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-027",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "38, Rajinder Park, Patel Nagar",
+      "price": "Call and ask",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9815221969",
+      "verified_date": "01-01-2021",
+      "documents": "Call Supplier",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-028",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "B-9 New Mandoli Industrial Area, Phase-II Shahdara",
+      "price": "Prices as fixed by Govt",
+      "is_free": false,
+      "delivery": "pickup",
+      "phone": "99110060157703837172",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-029",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator (they arrange them if asked)",
+      "location": "Delhi",
+      "price": "Call and ask",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9953076971",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-030",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Shree Shyam Gases, Khasra No.84/16,  Gali No.2-A, Mundka, Udyog Nagar",
+      "price": "Price told while refilling",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9350232671",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-031",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator (5 Litres)",
+      "location": "Gurgaon",
+      "price": "Rs.39000 (Medical grade)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9899676015",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card photo",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-032",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Vaibhav Oxygen, A-38 B-1 Extension, Mohan Co-Operative Badarpur",
+      "price": "Rs.100-500",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "98110657879871979337",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-033",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refills",
+      "location": "near Shaheen Bagh/Okhla",
+      "price": "starting from Rs.400",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9899215757",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card and Covid report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-034",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Vinayak oxygen, Mayapuri B93",
+      "price": "Rs.25 per litre",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "98688275109350109650",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card and prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-035",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Aggarwal Gases, Bawana- Khasra no 155/3, Phirni Rd. Puth Khurd Village",
+      "price": "47L - Rs.300",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9650236000",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-036",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (10 Litres)",
+      "location": "Delhi",
+      "price": "10L - Rs.550",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9811295792",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-037",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinders and Oxygen Refills",
+      "location": "C-47, Gali No.4, Mahendru Enclave, Delhi - 110009",
+      "price": "FREE for urgency use only",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9625500733",
+      "verified_date": "01-01-2021",
+      "documents": "Patient's report and Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-038",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (10 Litres and 50 Litres)",
+      "location": "Dhaula Kaun Metro Station, New Delhi",
+      "price": "10L - Rs.85000, 50L - Rs.13000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9971588375",
+      "verified_date": "06-12-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-039",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (50 Litres)",
+      "location": "Gudgaon",
+      "price": "Rent per day (contact the supplier to know the price)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8279359467",
+      "verified_date": "06-12-2021",
+      "documents": "Security deposits and Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-040",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Rohini - sector 23",
+      "price": "10L - Rs.13000, 47L - Rs.35000, 50L - Rs.40000, 68L - 45000, 80L - Rs.52000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9205236144",
+      "verified_date": "06-12-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-041",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "New Delhi",
+      "price": "Rs.46000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9891220211",
+      "verified_date": "06-12-2021",
+      "documents": "Contact the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-042",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (7 Litres)",
+      "location": "Delhi",
+      "price": "Rs.30000 + GST",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "8700449637",
+      "verified_date": "06-12-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-043",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (10 Litres)",
+      "location": "Dariyaganj Sector-6, Delhi",
+      "price": "Rs.8000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7011645341",
+      "verified_date": "06-12-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-044",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (50)",
+      "location": "Delhi - NCR, Faridabad",
+      "price": "varies according to need of person (no.of Concentrators) .",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "8433365688",
+      "verified_date": "06-12-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-045",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (10 Litres)",
+      "location": "Ramesh Nagar, West Delhi",
+      "price": "Rs.500 for 1 can",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7888606706",
+      "verified_date": "06-12-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-046",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Delhi, Near Pitampura",
+      "price": "Rs.60000 with gst",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8130577197",
+      "verified_date": "06-11-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-047",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (12 Litres)",
+      "location": "Vikaspuri, Delhi",
+      "price": "Rs.650 - 12L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9667535561",
+      "verified_date": "06-11-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-048",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (30 Litres) (only for north east delhi)",
+      "location": "25 Futa Road, Gali no. 1, Mustafabad",
+      "price": "Rs.800 - 30L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9312402356",
+      "verified_date": "06-11-2021",
+      "documents": "Aadhar card and doctor's prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-049",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinder for exchange 10 Litres and 47 Litres with refilling",
+      "location": "Sarojini Nagar Depot,African Ave",
+      "price": "10L - Rs.50 and 47L - Rs.616",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8588863701",
+      "verified_date": "06-11-2021",
+      "documents": "Aadhar card (patient and reciever) and recent rtpcr report and doctor's prescription (most important), empty cylinder",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-050",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinder (10 of 20 Litres) and Concentrator (5 Litre)",
+      "location": "DELHI NCR",
+      "price": "5L - Rs.70000 concentrator(heavy duty), oxgen cylinder price on demand",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9350911992",
+      "verified_date": "06-11-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-051",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (12 Litres)",
+      "location": "Gurudwara Sri Guru Singh Sabha, GK1",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "8130184210",
+      "verified_date": "06-11-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-052",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill",
+      "location": "Paramount Cyro Gases- Mundka, H-126, Vikaspuri",
+      "price": "Rs 50- Rs200",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "931225584198110657879968392238",
+      "verified_date": "06-09-2021",
+      "documents": "Preferable to have Covid Positive Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-053",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Uttam nagar",
+      "price": "Rs.450",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9136219936",
+      "verified_date": "06-08-2021",
+      "documents": "Aadhar card and covid report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-054",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Delhi",
+      "price": "Rs.56000 with gst and 1 year warranty",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9871520988",
+      "verified_date": "06-08-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-055",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refills (10 Litres )",
+      "location": "Shop No-16, CSC-2, Pocket D-14, Sector 8, Rohini, Delhi 110085",
+      "price": "10L - Rs.250",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9910033792",
+      "verified_date": "06-07-2021",
+      "documents": "Aadhar Card number only",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-056",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Mangolpuri Industrial Area Phase 2",
+      "price": "Gas Charge - Rs.200, Rs.200 per day for rent, Security - Rs.25000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9210197101",
+      "verified_date": "06-07-2021",
+      "documents": "Aadhar Card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-057",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (15 of 10 Litres and 50 Litres)",
+      "location": "Sita Ram Bazaar",
+      "price": "Rs.18000 for 15L and Rs.35000 for 30L cylinders",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9650658423",
+      "verified_date": "06-07-2021",
+      "documents": "Covid report, id proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-058",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders ( 10 Litres and 8 Litres)",
+      "location": "Sunny jaggi krishna market gurudwara lajpat part1",
+      "price": "cylinder on security basis, 10L - Rs.10000 8L - Rs.6000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9773935615",
+      "verified_date": "06-07-2021",
+      "documents": "Aadhar card / Doctor's Prescription report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-059",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling ( 10 Litres and 46 Litres)",
+      "location": "A-16,industrial area phase-1,blockb,naraina industrial area phase 1, naraina,delhi",
+      "price": "Rs.200 and Rs.400",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9953606224",
+      "verified_date": "06-07-2021",
+      "documents": "Covid report, id proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-060",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (10 Litres)",
+      "location": "1A/3,Amar park,rohatak road,new delhi",
+      "price": "Rs.7200 (Purchase)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810464289",
+      "verified_date": "06-07-2021",
+      "documents": "id proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-061",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (2 of 5 Litres)(one empty and one filled)",
+      "location": "Pul Prehladhpur, Badarpur",
+      "price": "Rs.5000 per cylinder",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9821079400",
+      "verified_date": "06-07-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-062",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refills",
+      "location": "Shivam medical gas school road peeragarhi",
+      "price": "Rs.700 for 47L, Rs.300 for 10L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810565115",
+      "verified_date": "06-07-2021",
+      "documents": "Aadhar card / doctors prescription report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-063",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refills",
+      "location": "Near sdm office geeta colony",
+      "price": "10L-12L FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9718541997",
+      "verified_date": "06-07-2021",
+      "documents": "No requirnments",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-064",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (10 Litres)",
+      "location": "Jeewan Air Product, Shakurpur, near Britiana",
+      "price": "Type - B Rs.250; Type D - Rs.700 if cylinder has greater capacity",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810309096",
+      "verified_date": "06-07-2021",
+      "documents": "doctor prespriction of patient, aadhar card of whoever is coming to get, aadhar card of patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-065",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinders (47 and 10 Litres) and Oxygen Concentrators (7 Litres)",
+      "location": "Delhi",
+      "price": "10L - Rs.10000+gst, 47L - Rs.20000+gst, 7L - Rs.32000+gst",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7011283381",
+      "verified_date": "06-05-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-066",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Delhi",
+      "price": "5L Medical grade - Rs.42000 inclusive of GST",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9953138125",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-067",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill, Oxygen Cylinder",
+      "location": "Delhi",
+      "price": "Call the supplier to get the information",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9837037327",
+      "verified_date": "06-05-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-068",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Gudgaon",
+      "price": "10L - Rs.5000 for 1 month + security check",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9810526521",
+      "verified_date": "06-05-2021",
+      "documents": "Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-069",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "Jal area market , DLF phase 4 , sector - 28 gurugram",
+      "price": "6L - Rs.499 and 12L - Rs.800",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8800386651",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-070",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cans and Oxygen Concentrators",
+      "location": "Rajouri Garden",
+      "price": "Cans (12L) - Rs.350 , Concentrators - Rs.40+GST",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9999445542",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-071",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Delhi",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "8743014143",
+      "verified_date": "06-05-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-072",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (35 litres)",
+      "location": "Ghaziabad, Subhash Nagar gali no. 18",
+      "price": "Oxygen - FREE, Cylinder- Rs.5000 (Security Charge)",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "8850828823",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-073",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Dwarka",
+      "price": "Household grade from Rs.20000 and Medical grade from Rs45000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9971922020",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-074",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "b-283 Okhla Industrial Phase-1 Road",
+      "price": "10L- Rs.450, 18L- Rs.630",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9953235333",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-075",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (7 Litrea and 5 Litres)",
+      "location": "Delhi, Rohini",
+      "price": "7L - Rs.34000 5L- heavy medical Rs.65000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9999119655",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-076",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (6 Litres)",
+      "location": "Shop no. 12, Khanna Market, Lodhi Road",
+      "price": "Rs.500",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9643763804",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-077",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinder and refilling",
+      "location": "Dwarka sector-1",
+      "price": "Depends on location and refill quantity",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9310014196",
+      "verified_date": "06-05-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-078",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": null,
+      "location": "Subash Nagar",
+      "price": "Rs.800 for 10L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9582297952",
+      "verified_date": "06-04-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-079",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": null,
+      "location": "Azadpur, GT Karnal Road",
+      "price": "free on returnable basis",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9971651619",
+      "verified_date": "06-04-2021",
+      "documents": "prescription and aadhar card of patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-080",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "DSIDC MArket, Okhla Phase-1",
+      "price": "Rs.7500",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9871825570",
+      "verified_date": "06-04-2021",
+      "documents": "prescription and aadhar card of patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-081",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (10 Litres)",
+      "location": "Amar Colony, Lajpat Nagar",
+      "price": "Rs.750",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9910733123",
+      "verified_date": "06-04-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-082",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (10.2 Litres)",
+      "location": "Lajpat Nagar",
+      "price": "Rs.20000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9311981189",
+      "verified_date": "06-04-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-083",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator",
+        "can"
+      ],
+      "raw_object": "Oxygen Can (5 Litres) and Oxygen Concentrators (5,9,10 Litres)",
+      "location": "Dwarka",
+      "price": "To be determined over call with the dealer",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8882486366",
+      "verified_date": "06-02-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-084",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Delhi",
+      "price": "Call the supplier to get the information",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9999107408",
+      "verified_date": "06-02-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-085",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Dwarka centre, New Delhi",
+      "price": "Rs.25000 - Rs.90000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7011979100",
+      "verified_date": "06-02-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-086",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "Dwarka mod metro station",
+      "price": "Rs.600",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7011980895",
+      "verified_date": "06-02-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-087",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "C30 Amar Colony Market Lajpat Nagar 4, New Delhi",
+      "price": "Rs.750",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9910733123",
+      "verified_date": "06-02-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-088",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Portable Cans (12 litres)",
+      "location": "Noida",
+      "price": "Rs.290",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9205445637",
+      "verified_date": "06-02-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-089",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (12 Litres)",
+      "location": "Delhi NCR (Noida extension)",
+      "price": "Rs.750 per can",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9717355779",
+      "verified_date": "06-02-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-090",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "60l Oxygen Cylinder",
+      "location": "Delhi",
+      "price": "Rent - Rs.300 per day",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "99103267419891421007",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-091",
+      "city": "delhi",
+      "resource_types": [
+        "refill",
+        "can"
+      ],
+      "raw_object": "Oxygen Can Refilling",
+      "location": "B-285, DDA Colony Chowkhandi Road, Khyala, New Delhi-110018",
+      "price": "Rs.300",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "98104687819810468787",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card of patient and receiver and Dr.prescription of patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-092",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators",
+      "location": "Location will be provided once patient details are given to the supplier",
+      "price": "FREE for rent",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "7289916846",
+      "verified_date": "01-01-2021",
+      "documents": "Covid report and Dr. prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-093",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinders refilling",
+      "location": "94  gali no - 2 , West Vinod Nagar, Near Nalanda Chowk,agrwal sweet",
+      "price": "price told while refilling",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "97170082769717009263",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-094",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Contact the suppiler to get the information",
+      "price": "No price. They provide in urgency for free",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9313303516",
+      "verified_date": "01-01-2021",
+      "documents": "Covid positive report + Aadhar card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-095",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "Noida",
+      "price": "10L - Rs.1000 or Rs.1500",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8349749076",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-096",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans",
+      "location": "Rk ashram, metro station",
+      "price": "10l - Rs.1500 and 18L - Rs.2500",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8860202473",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-097",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refill (10 kg)",
+      "location": "14/10 Kalka ji lower ground floor",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9310510640",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-098",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (upto 10 kg)",
+      "location": "14/10 Kalkaji Lower ground floor,",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9310510640",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-099",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (5kg to 60kg) [will pickup empty Cylinders; refill them and deliver]",
+      "location": "Lodhi Road, Delhi",
+      "price": "depends on location and refill quantity",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9910020427",
+      "verified_date": "01-01-2021",
+      "documents": "prescription and aadhar card of patient",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-100",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (10 litres)",
+      "location": "Hukamchand and sons,Nizzamuddin",
+      "price": "10L - Rs.150",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "01124372745",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-101",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (15 Litres)",
+      "location": "Delhi",
+      "price": "10L - Rs.150",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9873478788",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-102",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (60 Litres)",
+      "location": "Delhi (get exact location on contacting)",
+      "price": "Rs.60000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8586977815",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-103",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Delhi",
+      "price": "Call the supplier to get the information",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9313303516",
+      "verified_date": "01-01-2021",
+      "documents": "Call the supplier to get the information",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-104",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "WZ-05, Kailash Park Metro Pillar No.32 Opp. Kalra Hospital",
+      "price": "Starting from Rs.10000 - Rent",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "98116151139999260913",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-105",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (10 Litres and 18 Litres)",
+      "location": "RK ashram metro station",
+      "price": "10L- Rs.1500 18L- Rs.2500",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8860202473",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-106",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (5 Litres)",
+      "location": "Delhi",
+      "price": "Security amount",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8595785545",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card of patient and receiver",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-107",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder and Oxygen Cans (4.5 Litres - 17 Litres)",
+      "location": "Sector 78, Mohali (delivers to Delhi as well)",
+      "price": "Rs.800 - Rs.16000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7009800287",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-108",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (10 Litres)",
+      "location": "Pitampura",
+      "price": "Rs.75000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9555795612",
+      "verified_date": "01-01-2021",
+      "documents": "Oxygen levels if possible; no other requirements",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-109",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (9 Litres)",
+      "location": "Swaroop Nagar, Delhi",
+      "price": "Rs.800",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9315189116",
+      "verified_date": "01-01-2021",
+      "documents": "Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-110",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (12 Litres)",
+      "location": "Gurgaon",
+      "price": "Rs.800",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9968769606",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-111",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (12 Litres)",
+      "location": "Lajpat Nagar, South Delhi",
+      "price": "Rs.860 per can",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8851603668",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-112",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (4 to 5 of 9 Litres)",
+      "location": "Faridabad Toshi Overseas Pvt Ltd",
+      "price": "Purchase - Rs.52000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9267942664",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-113",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (5 Litres, 9 Litres, 10 Litres)",
+      "location": "Delhi NCR",
+      "price": "Rent - Rs.25000 to Rs.30000, Purchase - Rs.60000 to Rs.70000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "7827520477",
+      "verified_date": "01-01-2021",
+      "documents": "Doctor's Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-114",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Empty and Filled Oxygen Cylinders",
+      "location": "Vaishali, Ghaziabad",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "9582405643",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-115",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Model Town - 2",
+      "price": "3L to 7L - Rs.58000, 5L to 10L - Rs.61400",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8800150503",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-116",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Gas",
+      "location": "Karawal Nagar, North East",
+      "price": "10 litres - Rs. 350",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9899044001",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-117",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders",
+      "location": "Delhi NCR",
+      "price": "Varying depending on the capacity",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9999535374",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card and Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-118",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Gas",
+      "location": "Umpire Gases, Rohtak Road",
+      "price": "Rs.250",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9818500892",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-119",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "E-130, Shaheen Bagh",
+      "price": "7L - Rs.12000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810915637",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-120",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans , Oximeter",
+      "location": "sunil medicos, sadh nagar, palam colony,(opposite flyover pillar no 60)",
+      "price": "8L- Rs.650, 10L- Rs.800, 12L-Rs.1000, oximeter-Rs.1300",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9717727487",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-121",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Moti Bagh",
+      "price": "7L - Rs.10,000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8447958768",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-122",
+      "city": "delhi",
+      "resource_types": [
+        "can"
+      ],
+      "raw_object": "Oxygen Can",
+      "location": "Delhi",
+      "price": "12L - Rs.1500",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9873357335",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-123",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder(50 Litres)",
+      "location": "Dariyaganj",
+      "price": "50L - Rs.32,000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9717291286",
+      "verified_date": "01-01-2021",
+      "documents": "Covid negative report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-124",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Cylinder and Concentrator",
+      "location": "Gurgaon, 23",
+      "price": "To be determined over call with the person in need",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810526521",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-125",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (50 of 10 Litres)",
+      "location": "Gas associates A/3 amar park near zakhira flyover",
+      "price": "10L at Rs.7200, gas refilling 10L at Rs.300",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "9810465289",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card / Doctor's Prescription",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-126",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refills",
+      "location": "Hukumchand bhogal",
+      "price": "Rs.150 for 10L, Rs.450 for 47L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "01124372745",
+      "verified_date": "01-01-2021",
+      "documents": "No requirnments",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-127",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders Refiling (10 Litres)",
+      "location": "Hukum chand % sons, jangpura, bhogal",
+      "price": "Rs.150 per 10L cylinder",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "01124372745",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-128",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder",
+        "refill"
+      ],
+      "raw_object": "Oxygen Cylinders Refilling (5 Litres - 10 Litres)",
+      "location": "Ikktara foundation, preet vihar metro station",
+      "price": "Free of cost",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "7290896969",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-129",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (25-30)",
+      "location": "Delhi",
+      "price": "not fixed they will tell after you call them",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "98912211",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-130",
+      "city": "delhi",
+      "resource_types": [
+        "other"
+      ],
+      "raw_object": "Oxygen Cans (18 Litres and 10 Litres)",
+      "location": "Jammia Nagar, Delhi",
+      "price": "18L - Rs.1100, 10L - Rs.700",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9990082263",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-131",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinders (10 Litres and 15 Litres)",
+      "location": "Sahibabad Industrial Area, Delhi",
+      "price": "10L - Rs.7000 ,15L - Rs.10000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9717291286",
+      "verified_date": "01-01-2021",
+      "documents": "Covid Report",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-132",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrators (7 Litres)",
+      "location": "Noida",
+      "price": "Rs.55000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "9798989852",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-133",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Delhi",
+      "price": "FREE",
+      "is_free": true,
+      "delivery": "both",
+      "phone": "8448448133",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card and Prescription for oxygen concentrator",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-134",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator (5 Litres)",
+      "location": "Fortea Medical, DELHI NCR",
+      "price": "Free for 15 days (BPL), Rs.18000(security deposit refundable)[APL]",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "999577399",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card and recent rtpcr report and doctor's prescription (most important)",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-135",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (2 of 5 Litres)",
+      "location": "Ghaziabad",
+      "price": "Rs.11000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7947219431",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-136",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (10 Litres)",
+      "location": "Main Road, Defence Colony, Delhi - 110024",
+      "price": "Rs.300",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "7947220379",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-137",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (10 Litres)",
+      "location": "KC Green",
+      "price": "Rs.14000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8048079133",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-138",
+      "city": "delhi",
+      "resource_types": [
+        "can"
+      ],
+      "raw_object": "Oxygen Can",
+      "location": "New Krishna Park Vikaspuri",
+      "price": "Rs.1000 for 12L can",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8046025812",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-139",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (15 Litres)",
+      "location": "Kamala nagar",
+      "price": "Rs.18000",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8048019809",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar Card",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-140",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (10 Litres and 47 Litres)",
+      "location": "Peeragarhi",
+      "price": "Rs.300 for 10L, Rs.700 for 47L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9810565115",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-141",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (10 Litres and 47 Litres)",
+      "location": "Jangpura,Samman Bazar,Bhogal,delhi",
+      "price": "Rs.100 for 10L, Rs.200-400 for 47L",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "1124372745",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-142",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (15 Litres)",
+      "location": "Rajouri Garden",
+      "price": "Rs.20000 (Purchase)",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8700836896",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-143",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (10 Litres)",
+      "location": "Pitampura",
+      "price": "Rs.10500 (Purchase)",
+      "is_free": false,
+      "delivery": "both",
+      "phone": "8882036300",
+      "verified_date": "01-01-2021",
+      "documents": null,
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-144",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen Refilling (10 Litres)",
+      "location": "Shivam Enterprises, Peeragarhi Village",
+      "price": "Rs.300",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9891565115",
+      "verified_date": "01-01-2021",
+      "documents": "Covid report, id proof",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-145",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder (1 of 35 Litres)",
+      "location": "Vijay Nagar",
+      "price": "Rs.25000",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "8178737413",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-146",
+      "city": "delhi",
+      "resource_types": [
+        "concentrator"
+      ],
+      "raw_object": "Oxygen Concentrator",
+      "location": "Jhilmil, Delhi",
+      "price": "Rs. 42000",
+      "is_free": false,
+      "delivery": "home_delivery",
+      "phone": "7011977726",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-147",
+      "city": "delhi",
+      "resource_types": [
+        "refill"
+      ],
+      "raw_object": "Oxygen refill",
+      "location": "Delhi NCR",
+      "price": "Rs. 800",
+      "is_free": false,
+      "delivery": "unknown",
+      "phone": "9315189116",
+      "verified_date": "01-01-2021",
+      "documents": "none",
+      "active": true,
+      "inactive_reason": null
+    },
+    {
+      "id": "DEL-148",
+      "city": "delhi",
+      "resource_types": [
+        "cylinder"
+      ],
+      "raw_object": "Oxygen Cylinder",
+      "location": "Airoli",
+      "price": "Free, Deposit- rs. 7000",
+      "is_free": true,
+      "delivery": "unknown",
+      "phone": "8828941313",
+      "verified_date": "01-01-2021",
+      "documents": "Aadhar card, covid report",
+      "active": true,
+      "inactive_reason": null
+    }
+  ]
+}
